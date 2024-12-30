@@ -8,7 +8,7 @@
 ---
 
 ## **Objective:**
-This lab focuses on **object-oriented programming (OOP) principles** using **inheritance, polymorphism, aggregation, and composition**. You will build a **Farm Management System** in C++ that models fields containing crops and animals on a farm. You will also practice **reading from CSV files**, managing **dynamic memory**, and **modular code organization**.
+This project focuses on **object-oriented programming (OOP) principles** using **inheritance, polymorphism, aggregation, and composition**. You will build a **Farm Management System** in C++ that models fields containing crops and animals on a farm. You will also practice **reading from CSV files**, managing **dynamic memory**, and **modular code organization**.
 
 By the end of the lab, you will understand:
 - How to create classes with appropriate attributes and methods.
