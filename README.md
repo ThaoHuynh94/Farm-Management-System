@@ -1,5 +1,9 @@
 
+
 # **Farm Management System**
+
+![image](https://github.com/user-attachments/assets/da1f4eb3-ac93-4e63-8ffd-a4096bcc9814)
+
 
 ---
 
