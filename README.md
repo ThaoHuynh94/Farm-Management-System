@@ -1,7 +1,6 @@
 ![Points bar](../../blob/badges/.github/badges/points-bar.svg)
 # **Farm Management System**
 
-![Farm Fun](images/farm.png)
 ---
 
 ## **Objective:**
@@ -23,18 +22,6 @@ By the end of the lab, you will understand:
 - The farm stores **multiple animals** and **fields**.
 - **Animals** are dynamically allocated and their dietary requirements are determined using **polymorphism** (derived classes for Cow, Chicken, and Pig).
 - **File input** is used to load crop and animal data from **CSV files**.
-
----
-**Grading rubric (100 points possible (60 autograded))**
-
-| Points | Requirements                |
-|--------|-----------------------------|
-| 15     | Animal Classes (Autograded) |
-| 15     | Crop Class  (Autograded)    |
-| 15     | Field Class (Autograded)    |
-| 15     | Farm Class  (Autograded)    |
-| 15     | Farm Driver                 |
-| 30     | Good coding practices.      |
 
 
 ---
